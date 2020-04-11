@@ -1,8 +1,6 @@
-# Coding Challenges!
+# Coding Challenges👨🏻‍💻
 
-Do you think you have what it takes to be an exemplary coder? Do you think you know answer to all questions in programming? 
-
-If your answer is no to those questions, then this is perfect place to practice and hone your programming skills! 💯🔥
+Do you think you have what it takes to become an exceptional coder? These are the perfect resources to practice and hone your programming skills!
 
  - [Collection of Data Science Take Home Challenges](https://datamasked.com/)
  - [Flutter UI Challenges]( https://github.com/lohanidamodar/flutter_ui_challenges)
@@ -22,13 +20,8 @@ If your answer is no to those questions, then this is perfect place to practice 
  - [Codewars Kumite](https://www.codewars.com/kumite)
  - [30 Days Leetcode Challenge](https://leetcode.com/explore/challenge/card/30-day-leetcoding-challenge/)
  
- # Free Tutorials!
-Confused on what is going on in the world of programming? Don't know what is what and which is which? 
-Bored of doing Hello Worlds and building simple note taking apps?
-
-If your answer is yes then feel free to check out any of the courses down below!
-
-Have fun learning!💯💯
+ # Free Courses📝
+Confused on what is going on in the world of programming? Bored of writing basic Hello World programs and building simple note taking apps? If yes, check out the courses down below!
 
 - [Data Structures 8 hour course](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=2&t=0s)
 - [Tensorflow 7 hour course](https://www.youtube.com/watch?v=tPYj3fFJGjk)
@@ -72,4 +65,3 @@ Have fun learning!💯💯
 - [Full Stack Web Development Using Ruby On Rails](https://www.theodinproject.com/)
 - [Freecodecamp Blog for 650+ CS Courses](https://www.freecodecamp.org/news/free-online-programming-cs-courses/)
 - [Ubuntu Linux for Beginners](https://swayam.gov.in/nd2_aic20_sp24/preview)
- 
