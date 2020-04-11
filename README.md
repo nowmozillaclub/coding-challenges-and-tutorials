@@ -2,27 +2,27 @@
 
 Confused on what is going on in the world of programming? Bored of writing basic Hello World programs and building simple note taking apps? If yes, check out the courses below to get started!
 
-## Core Concepts
+## Core Concepts🖥️
 
 -   [Data Structures 8 hour course](https://www.youtube.com/watch?v=RBSGKlAvoiM&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=2&t=0s)
 -   [Algorithms Part 1 by Princeton University](https://www.coursera.org/learn/algorithms-part1)
 -   [Algorithms Part 2 by Princeton University](https://www.coursera.org/learn/algorithms-part2)
 
-## New Languages
+## New Languages🐍
 
 -   [Learn Basic Python in 4 hours](https://scrimba.com/g/gpython)
 -   [Python For Everybody](https://www.coursera.org/specializations/python?)
 -   [Build 5 Python games](https://www.youtube.com/watch?v=XGf2GcyHPhc)
 -   [Java 9 hour course](https://www.youtube.com/watch?v=grEKMHGYyns&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=9&t=0s)
 
-## Machine Learning
+## Machine Learning🧠
 
 -   [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 -   [TensorFlow 7 hour course](https://www.youtube.com/watch?v=tPYj3fFJGjk)
 -   [Python Advanced (Face Detection etc.)](https://realpython.com/free-courses-march-2020)
 -   [Go Lang Tutorial](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 
-## App Development
+## App Development📲
 
 -   [Android Dev](https://www.udacity.com/course/new-android-fundamentals--ud851)
 -   [React Native Course](https://www.edx.org/course/cs50s-mobile-app-development-with-react-native)
@@ -30,7 +30,9 @@ Confused on what is going on in the world of programming? Bored of writing basic
 -   [Flutter Course](https://www.youtube.com/watch?v=pTJJsmejUOQ)
 -   [Learn Dart Programming Language](https://www.youtube.com/watch?v=Ej_Pcr4uC2Q)
 -   [Flutter and Firebase app build](https://www.youtube.com/watch?v=sfA3NWDBPZ4&list=PL4cUxeGkcC9j--TKIdkb3ISfRbJeJYQwC)
-    ## Web Development
+
+## Web Development💻
+
 -   [HTML and CSS](https://www.youtube.com/watch?v=hu-q2zYwEYs&list=PL4cUxeGkcC9ivBf_eKCPIAYXWzLlPAm6G)
 -   [JavaScript for Beginners](https://www.youtube.com/watch?v=qoSksQ4s_hg&list=PL4cUxeGkcC9i9Ae2D9Ee1RvylH38dKuET)
 -   [Programming for the Web using JS](https://www.classcentral.com/course/edx-programming-for-the-web-with-javascript-8518?utm_source=fcc_medium&utm_medium=web&utm_campaign=ivy_league_courses_2020)
@@ -43,7 +45,7 @@ Confused on what is going on in the world of programming? Bored of writing basic
 -   [Full Stack Development](https://www.coursera.org/specializations/full-stack-react)
 -   [Firebase Firestore](https://www.youtube.com/watch?v=4d-gIPGzmK4&list=PL4cUxeGkcC9itfjle0ji1xOZ2cjRGY_WB)
 
-    ## Advanced Stuff
+## Advanced Stuff💯
 
 -   [Get familiar with Git and GitHub](https://www.youtube.com/watch?v=3RjQznt-8kE&list=PL4cUxeGkcC9goXbgTDQ0n_4TBzOO0ocPR)
 -   [RegEx Tutorial](https://www.youtube.com/watch?v=r6I-Ahc0HB4&list=PL4cUxeGkcC9g6m_6Sld9Q4jzqdqHd2HiD)
@@ -52,7 +54,7 @@ Confused on what is going on in the world of programming? Bored of writing basic
 -   [Using Python For Research by Harvard University](https://www.classcentral.com/course/edx-using-python-for-research-7204?utm_source=fcc_medium&utm_medium=web&utm_campaign=ivy_league_courses_2020)
 -   [Ubuntu Linux for Beginners](https://swayam.gov.in/nd2_aic20_sp24/preview)
 
-## More Resources
+## More Resources🔥
 
 -   [MIT courses](https://ocw.mit.edu/index.htm)
 -   [edX courses](https://www.edx.org/learn/computer-programming)
