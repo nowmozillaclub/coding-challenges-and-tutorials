@@ -14,7 +14,7 @@ Confused on what is going on in the world of programming? Bored of writing basic
 -   [Python For Everybody](https://www.coursera.org/specializations/python?)
 -   [Build 5 Python games](https://www.youtube.com/watch?v=XGf2GcyHPhc)
 -   [Java 9 hour course](https://www.youtube.com/watch?v=grEKMHGYyns&list=PLWKjhJtqVAblfum5WiQblKPwIbqYXkDoC&index=9&t=0s)
--   [Java MOOC by University of Helsinki (regarded as one of the best Free Java Courses.](https://java-programming.mooc.fi/)
+-   [Java MOOC by University of Helsinki (regarded as one of the best Free Java Courses.)](https://java-programming.mooc.fi/)
 
 ## Machine Learning🧠
 
