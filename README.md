@@ -20,8 +20,16 @@ Confused on what is going on in the world of programming? Bored of writing basic
 
 -   [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
 -   [TensorFlow 7 hour course](https://www.youtube.com/watch?v=tPYj3fFJGjk)
+-   [PyTorch 6 hour course](https://www.youtube.com/watch?v=CNuI8OWsppg&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=7&t=0s)
 -   [Python Advanced (Face Detection etc.)](https://realpython.com/free-courses-march-2020)
 -   [Go Lang Tutorial](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
+
+## Data Science📊
+-   [Statistics 8 hour course](https://www.youtube.com/watch?v=xxpc-HPKN28&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=4&t=0s)
+-   [Data Analysis using Python 4.5 hour course](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=10&t=0s)
+-   [Real world Problem Solving using Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+-   [D3.js 13 hour course - Data Analysis on the web](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=3&t=0s)
+-   [Data Analysis with Jamovi 5 hour course](https://www.youtube.com/watch?v=mZomeS0tLxY&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=9&t=0s)
 
 ## App Development📲
 
@@ -87,3 +95,5 @@ Do you think you have what it takes to become an exceptional coder? These are th
 -   [HackerRank Learn To Code in 30 days](https://www.hackerrank.com/domains/tutorials/30-days-of-code)
 -   [HackerRank Interview Preparation](https://www.hackerrank.com/interview/interview-preparation-kit)
 -   [Codewars Kumite](https://www.codewars.com/kumite)
+-   [101 Pandas Exercises](https://www.machinelearningplus.com/python/101-pandas-exercises-python/)
+-   [101 Numpy Exercises](https://www.machinelearningplus.com/python/101-numpy-exercises-python/)
