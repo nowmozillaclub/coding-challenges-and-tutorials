@@ -28,6 +28,8 @@ Confused on what is going on in the world of programming? Bored of writing basic
 -   [Statistics 8 hour course](https://www.youtube.com/watch?v=xxpc-HPKN28&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=4&t=0s)
 -   [Data Analysis using Python 4.5 hour course](https://www.youtube.com/watch?v=r-uOLxNrNk8&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=10&t=0s)
 -   [Real world Problem Solving using Pandas](https://www.youtube.com/watch?v=eMOA1pPVUc4)
+-   [NumPy Tutorial](https://www.youtube.com/watch?v=QUT1VHiLmmI)
+-   [Matplotlib Tutorial](https://www.youtube.com/watch?v=3Xc3CA655Y4)
 -   [D3.js 13 hour course - Data Analysis on the web](https://www.youtube.com/watch?v=_8V5o2UHG0E&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=3&t=0s)
 -   [Data Analysis with Jamovi 5 hour course](https://www.youtube.com/watch?v=mZomeS0tLxY&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=9&t=0s)
 
