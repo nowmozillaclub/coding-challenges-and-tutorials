@@ -19,10 +19,9 @@ Confused on what is going on in the world of programming? Bored of writing basic
 ## Machine Learning🧠
 
 -   [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
--   [TensorFlow 7 hour course](https://www.youtube.com/watch?v=tPYj3fFJGjk)
--   [PyTorch 6 hour course](https://www.youtube.com/watch?v=CNuI8OWsppg&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=7&t=0s)
+-   [TensorFlow Free Specialization (Free)](https://www.coursera.org/specializations/tensorflow-in-practice)
+-   [PyTorch 9 hour course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 -   [Python Advanced (Face Detection etc.)](https://realpython.com/free-courses-march-2020)
--   [Go Lang Tutorial](https://www.youtube.com/watch?v=Q0sKAMal4WQ)
 
 ## Data Science📊
 -   [Statistics 8 hour course](https://www.youtube.com/watch?v=xxpc-HPKN28&list=PLWKjhJtqVAblQe2CCWqV4Zy3LY01Z8aF1&index=4&t=0s)
