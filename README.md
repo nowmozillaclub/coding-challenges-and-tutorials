@@ -19,7 +19,7 @@ Confused on what is going on in the world of programming? Bored of writing basic
 ## Machine Learning🧠
 
 -   [Machine Learning by Andrew Ng](https://www.coursera.org/learn/machine-learning)
--   [TensorFlow Free Specialization (Free)](https://www.coursera.org/specializations/tensorflow-in-practice)
+-   [TensorFlow In Practice Specialization (Free)](https://www.coursera.org/specializations/tensorflow-in-practice)
 -   [PyTorch 9 hour course](https://www.youtube.com/watch?v=GIsg-ZUy0MY)
 -   [Python Advanced (Face Detection etc.)](https://realpython.com/free-courses-march-2020)
 
